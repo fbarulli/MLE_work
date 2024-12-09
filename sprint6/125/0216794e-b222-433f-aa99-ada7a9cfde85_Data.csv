@@ -1,0 +1,234 @@
+Country Name,Country Code,Series Name,Series Code,Scale (Precision),1996 [YR1996],1998 [YR1998],2000 [YR2000],2002 [YR2002],2003 [YR2003],2004 [YR2004],2005 [YR2005],2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021]
+Sweden,SWE,Control of Corruption: Estimate,CC.EST,Unit (0.0),2.2,2.2,2.2,2.2,2.1,2.1,2.0,2.2,2.2,2.2,2.2,2.2,2.2,2.3,2.2,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1
+Sweden,SWE,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.9,1.9,1.9,2.0,2.0,2.1,1.9,1.8,2.0,1.9,2.0,2.0,1.9,1.9,1.8,1.7,1.7,1.7,1.7,1.7,1.7,1.7,1.6
+Sweden,SWE,Rule of Law: Estimate,RL.EST,Unit (0.0),1.8,1.8,1.8,1.8,1.9,1.9,1.8,1.9,1.9,1.9,2.0,1.9,1.9,1.9,2.0,2.0,2.0,2.0,1.8,1.8,1.8,1.8,1.7
+Sweden,SWE,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.5,1.4,1.4,1.5,1.3,1.4,1.3,1.3,1.3,1.1,1.1,1.1,1.2,1.2,1.1,1.1,0.9,1.0,1.0,0.9,1.0,1.0,1.0
+Sweden,SWE,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.3,1.2,1.3,1.6,1.6,1.7,1.5,1.4,1.6,1.6,1.6,1.7,1.9,1.9,1.9,1.8,1.8,1.8,1.8,1.8,1.8,1.7,1.7
+Sweden,SWE,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.5,1.5,1.6,1.5,1.5,1.7,1.6,1.5,1.5,1.5,1.5,1.5,1.6,1.7,1.7,1.6,1.6,1.6,1.6,1.6,1.6,1.5,1.5
+Spain,ESP,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.1,1.4,1.3,1.3,1.3,1.3,1.3,1.2,1.1,1.2,1.1,1.2,1.2,1.2,0.9,0.7,0.6,0.6,0.5,0.6,0.7,0.7,0.7
+Spain,ESP,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.6,1.6,1.7,1.8,1.8,1.3,1.5,0.8,1.0,0.9,0.9,0.9,1.0,1.1,1.2,1.2,1.2,1.1,1.0,1.0,1.0,0.9,0.9
+Spain,ESP,Rule of Law: Estimate,RL.EST,Unit (0.0),1.4,1.3,1.4,1.2,1.2,1.1,1.1,1.1,1.2,1.2,1.2,1.2,1.2,1.0,1.0,1.0,0.9,1.0,1.0,1.0,1.0,0.9,0.8
+Spain,ESP,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),0.2,0.1,0.5,0.4,0.0,-0.1,0.2,-0.2,-0.3,-0.4,-0.5,-0.3,0.0,0.0,0.0,0.2,0.2,0.4,0.3,0.3,0.3,0.4,0.5
+Spain,ESP,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.2,1.2,1.2,1.3,1.3,1.3,1.3,1.2,1.2,1.3,1.2,1.2,1.1,0.9,0.9,0.7,0.8,1.0,0.9,0.9,1.0,0.8,0.8
+Spain,ESP,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.3,1.3,1.3,1.3,1.3,1.3,1.1,1.1,1.1,1.2,1.2,1.1,1.1,1.1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Slovenia,SVN,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.1,1.2,0.8,0.8,0.9,1.0,0.9,1.0,1.0,0.9,1.1,0.9,0.9,0.8,0.7,0.7,0.7,0.8,0.8,0.8,0.9,0.8,0.7
+Slovenia,SVN,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.9,0.8,0.7,0.8,0.9,0.9,0.9,1.0,0.9,1.1,1.1,1.0,1.0,1.0,1.0,1.0,0.9,1.1,1.1,1.1,1.0,1.1,1.1
+Slovenia,SVN,Rule of Law: Estimate,RL.EST,Unit (0.0),1.1,1.2,1.0,0.9,0.8,0.9,0.9,0.9,0.9,1.0,1.1,1.0,1.0,1.0,1.0,1.0,0.9,1.1,1.0,1.0,1.1,1.0,1.0
+Slovenia,SVN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.3,1.2,0.9,1.3,1.2,1.1,1.1,1.1,1.1,1.1,0.9,0.9,1.0,0.9,0.9,1.0,0.9,1.0,0.9,0.9,0.8,0.7,0.8
+Slovenia,SVN,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.1,1.0,0.7,0.9,0.9,0.8,0.9,0.8,0.8,0.8,0.9,0.8,0.7,0.6,0.6,0.7,0.6,0.6,0.6,0.6,1.0,0.9,0.8
+Slovenia,SVN,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.3,1.2,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.0,1.1,1.0,1.1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.9,0.9
+Slovak Republic,SVK,Control of Corruption: Estimate,CC.EST,Unit (0.0),0.2,0.1,0.2,-0.1,0.3,0.3,0.5,0.4,0.3,0.3,0.3,0.2,0.2,0.1,0.0,0.1,0.1,0.2,0.1,0.2,0.2,0.4,0.2
+Slovak Republic,SVK,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.5,0.5,0.7,0.5,0.7,0.8,0.9,0.8,0.7,0.8,0.9,0.8,0.8,0.8,0.7,0.8,0.7,0.8,0.7,0.6,0.5,0.5,0.5
+Slovak Republic,SVK,Rule of Law: Estimate,RL.EST,Unit (0.0),0.2,0.2,0.3,0.3,0.3,0.5,0.5,0.5,0.4,0.5,0.5,0.6,0.6,0.5,0.5,0.5,0.5,0.6,0.5,0.5,0.5,0.7,0.7
+Slovak Republic,SVK,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),0.9,1.2,0.7,0.9,0.9,0.6,0.9,0.8,1.0,1.1,0.9,1.1,1.0,1.1,1.1,1.0,0.9,0.7,0.9,0.7,0.7,0.6,0.6
+Slovak Republic,SVK,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),0.7,0.5,0.6,0.9,0.9,1.1,1.1,1.1,1.0,1.1,1.0,1.0,1.0,1.0,0.9,0.9,0.8,0.9,0.8,0.8,1.0,0.8,0.9
+Slovak Republic,SVK,Voice and Accountability: Estimate,VA.EST,Unit (0.0),0.6,0.7,0.8,1.0,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,1.0,1.0,1.0,1.0,1.0,1.0,0.9,0.8,0.9,0.9,0.9
+Portugal,PRT,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.4,1.3,1.1,1.2,1.1,1.1,1.1,1.0,1.0,1.1,1.1,1.1,1.1,1.0,0.9,0.9,0.9,0.9,0.8,0.8,0.7,0.7,0.7
+Portugal,PRT,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.3,1.1,1.0,1.2,1.1,1.0,1.1,0.9,0.9,1.1,1.2,1.0,0.9,1.0,1.2,1.0,1.2,1.1,1.3,1.2,1.1,1.0,1.0
+Portugal,PRT,Rule of Law: Estimate,RL.EST,Unit (0.0),1.3,1.2,1.2,1.3,1.3,1.2,1.2,1.0,1.0,1.0,1.1,1.0,1.0,1.0,1.0,1.1,1.1,1.0,1.1,1.1,1.1,1.2,1.1
+Portugal,PRT,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.3,1.4,1.4,1.4,1.3,1.0,1.0,1.0,0.8,1.0,0.8,0.7,0.7,0.8,0.7,0.8,0.9,1.0,1.1,1.1,1.1,1.0,0.9
+Portugal,PRT,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.2,1.1,0.9,1.2,1.2,1.2,1.3,1.1,1.1,1.1,1.0,0.7,0.6,0.8,0.8,0.7,0.9,0.8,0.9,0.9,1.0,0.8,0.7
+Portugal,PRT,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.5,1.4,1.4,1.3,1.4,1.5,1.4,1.2,1.2,1.2,1.1,1.1,1.1,1.0,1.1,1.1,1.1,1.2,1.2,1.2,1.2,1.3,1.2
+Poland,POL,Control of Corruption: Estimate,CC.EST,Unit (0.0),0.7,0.8,0.7,0.4,0.4,0.1,0.2,0.3,0.3,0.5,0.4,0.5,0.6,0.7,0.6,0.7,0.7,0.8,0.7,0.6,0.6,0.6,0.5
+Poland,POL,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.7,0.6,0.6,0.5,0.5,0.4,0.4,0.3,0.4,0.5,0.5,0.6,0.6,0.7,0.7,0.8,0.7,0.7,0.6,0.5,0.5,0.3,0.3
+Poland,POL,Rule of Law: Estimate,RL.EST,Unit (0.0),0.8,0.8,0.6,0.7,0.5,0.4,0.5,0.4,0.4,0.6,0.6,0.7,0.8,0.8,0.8,0.9,0.8,0.6,0.4,0.4,0.4,0.5,0.4
+Poland,POL,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),0.8,0.8,0.3,0.7,0.6,0.2,0.4,0.4,0.7,0.9,0.9,1.0,1.1,1.0,1.0,0.8,0.9,0.5,0.5,0.5,0.6,0.5,0.5
+Poland,POL,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),0.7,0.6,0.7,0.7,0.7,0.8,0.8,0.7,0.8,0.8,1.0,1.0,1.0,1.0,1.1,1.1,1.0,0.9,0.8,0.9,1.0,0.9,0.8
+Poland,POL,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.0,1.1,1.1,1.1,1.0,1.0,0.9,0.8,0.9,1.0,1.0,1.0,1.0,1.1,1.0,1.1,1.0,0.8,0.8,0.7,0.7,0.6,0.6
+Austria,AUT,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.7,1.8,1.8,1.9,2.0,2.0,1.9,1.9,2.0,1.8,1.7,1.6,1.5,1.4,1.5,1.5,1.5,1.5,1.5,1.6,1.5,1.5,1.2
+Austria,AUT,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.7,1.8,1.8,1.9,1.9,1.8,1.7,1.8,1.9,1.8,1.7,1.8,1.6,1.6,1.6,1.6,1.5,1.5,1.5,1.5,1.5,1.6,1.5
+Austria,AUT,Rule of Law: Estimate,RL.EST,Unit (0.0),1.8,1.8,1.8,1.9,1.8,1.8,1.8,1.9,1.9,1.9,1.8,1.8,1.8,1.9,1.8,1.9,1.8,1.8,1.8,1.9,1.9,1.8,1.8
+Austria,AUT,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.4,1.1,0.8,1.4,1.0,1.1,1.1,1.1,1.3,1.3,1.2,1.2,1.2,1.3,1.4,1.3,1.1,0.9,1.0,0.9,0.9,0.9,0.9
+Austria,AUT,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.7,1.3,1.5,1.5,1.5,1.5,1.6,1.6,1.7,1.6,1.5,1.5,1.4,1.5,1.5,1.5,1.4,1.4,1.4,1.5,1.4,1.4,1.3
+Austria,AUT,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.4,1.4,1.3,1.3,1.3,1.5,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.5,1.4,1.4,1.3,1.4,1.4,1.3,1.4,1.4
+Belgium,BEL,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.4,1.3,1.4,1.5,1.4,1.4,1.4,1.3,1.3,1.4,1.5,1.5,1.5,1.6,1.6,1.5,1.5,1.5,1.4,1.4,1.4,1.4,1.5
+Belgium,BEL,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.7,1.8,1.7,1.9,1.9,1.9,1.7,1.7,1.6,1.4,1.6,1.7,1.7,1.7,1.7,1.5,1.5,1.4,1.2,1.2,1.1,1.1,1.1
+Belgium,BEL,Rule of Law: Estimate,RL.EST,Unit (0.0),1.4,1.2,1.3,1.3,1.3,1.3,1.3,1.2,1.3,1.3,1.4,1.4,1.4,1.4,1.5,1.5,1.5,1.4,1.3,1.3,1.3,1.3,1.3
+Belgium,BEL,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.3,1.0,1.1,1.3,0.9,0.7,0.8,0.9,0.8,0.6,0.8,0.8,1.0,0.9,0.9,0.7,0.6,0.4,0.4,0.4,0.5,0.5,0.7
+Belgium,BEL,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.2,1.0,1.2,1.3,1.3,1.3,1.3,1.3,1.4,1.4,1.3,1.3,1.2,1.2,1.3,1.2,1.3,1.3,1.2,1.3,1.3,1.3,1.3
+Belgium,BEL,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.4,1.3,1.4,1.4,1.5,1.4,1.4,1.3,1.4,1.3,1.3,1.4,1.3,1.3,1.4,1.4,1.4,1.4,1.3,1.3,1.3,1.3,1.3
+Czechia,CZE,Control of Corruption: Estimate,CC.EST,Unit (0.0),0.7,0.5,0.1,0.4,0.5,0.4,0.5,0.4,0.3,0.3,0.4,0.4,0.4,0.3,0.3,0.4,0.5,0.6,0.6,0.5,0.5,0.6,0.6
+Czechia,CZE,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.6,0.6,0.6,0.9,0.9,0.9,0.9,1.1,0.8,1.0,0.9,0.9,0.9,0.9,0.9,1.0,1.0,1.0,1.0,1.0,0.9,0.9,1.1
+Czechia,CZE,Rule of Law: Estimate,RL.EST,Unit (0.0),0.9,0.9,0.6,0.9,0.9,0.8,0.9,0.9,0.9,0.9,1.0,0.9,1.0,1.0,1.0,1.1,1.1,1.0,1.1,1.0,1.0,1.0,1.1
+Czechia,CZE,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.1,0.9,0.3,1.0,0.9,0.7,0.9,1.1,1.0,1.0,0.9,1.0,1.1,1.1,1.1,1.0,1.0,1.0,1.0,1.0,0.9,0.9,0.9
+Czechia,CZE,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.1,0.9,0.7,1.1,1.1,1.0,1.1,1.1,1.1,1.2,1.3,1.3,1.2,1.1,1.1,1.0,1.1,1.0,1.2,1.3,1.2,1.2,1.3
+Czechia,CZE,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.0,1.0,0.8,1.0,1.0,1.0,0.9,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.9,0.8,0.8,1.0,1.0
+Denmark,DNK,Control of Corruption: Estimate,CC.EST,Unit (0.0),2.2,2.2,2.3,2.3,2.4,2.4,2.3,2.5,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.3,2.2,2.2,2.2,2.2,2.1,2.2,2.3
+Denmark,DNK,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.8,1.9,1.9,2.0,2.1,2.3,2.1,2.2,2.3,2.2,2.2,2.1,2.1,2.0,1.9,1.8,1.8,1.8,1.7,1.8,1.9,1.8,2.0
+Denmark,DNK,Rule of Law: Estimate,RL.EST,Unit (0.0),1.8,1.8,1.8,1.9,1.9,1.9,1.9,2.0,2.0,2.0,1.9,1.9,1.9,1.9,1.9,2.1,2.0,1.9,1.8,1.8,1.8,1.8,1.9
+Denmark,DNK,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.4,1.4,1.5,1.5,1.2,1.1,1.1,1.0,1.1,1.1,1.0,1.0,1.1,0.9,1.0,1.0,0.9,0.9,0.9,0.9,1.0,0.9,0.9
+Denmark,DNK,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.8,1.7,1.7,1.7,1.7,1.7,1.6,1.8,1.9,1.9,1.9,1.9,1.9,1.8,1.8,1.7,1.7,1.6,1.6,1.6,1.5,1.8,1.8
+Denmark,DNK,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.5,1.5,1.5,1.5,1.6,1.8,1.7,1.6,1.5,1.5,1.5,1.5,1.6,1.7,1.7,1.5,1.6,1.5,1.5,1.6,1.5,1.5,1.5
+Estonia,EST,Control of Corruption: Estimate,CC.EST,Unit (0.0),0.4,0.7,0.8,0.7,0.9,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.1,1.2,1.3,1.3,1.2,1.2,1.5,1.5,1.6,1.5
+Estonia,EST,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.6,0.5,0.7,0.7,0.9,0.9,0.9,1.1,1.0,1.2,1.0,1.1,1.1,0.9,1.0,1.0,1.0,1.1,1.1,1.2,1.1,1.3,1.3
+Estonia,EST,Rule of Law: Estimate,RL.EST,Unit (0.0),0.6,0.6,0.6,0.8,0.8,0.9,0.9,1.1,1.1,1.2,1.1,1.2,1.2,1.2,1.2,1.4,1.3,1.2,1.2,1.2,1.2,1.3,1.4
+Estonia,EST,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),0.8,0.7,0.9,0.9,0.9,0.7,0.6,0.7,0.6,0.6,0.6,0.7,0.6,0.6,0.7,0.8,0.6,0.7,0.6,0.6,0.6,0.7,0.7
+Estonia,EST,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.2,1.2,1.3,1.3,1.2,1.2,1.2,1.3,1.3,1.4,1.4,1.4,1.4,1.4,1.4,1.7,1.7,1.7,1.6,1.5,1.6,1.5,1.5
+Estonia,EST,Voice and Accountability: Estimate,VA.EST,Unit (0.0),0.9,1.0,1.0,1.1,1.1,1.1,1.0,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2
+Finland,FIN,Control of Corruption: Estimate,CC.EST,Unit (0.0),2.2,2.2,2.4,2.4,2.4,2.4,2.3,2.5,2.4,2.3,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.2,2.1,2.2,2.2
+Finland,FIN,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.7,1.9,2.0,2.1,2.2,2.1,2.1,2.2,2.0,2.0,2.2,2.2,2.2,2.2,2.2,2.0,1.8,1.8,2.0,2.0,2.0,1.9,1.9
+Finland,FIN,Rule of Law: Estimate,RL.EST,Unit (0.0),1.9,2.0,2.0,1.9,2.0,1.9,2.0,2.0,1.9,1.9,2.0,2.0,1.9,1.9,2.0,2.1,2.1,2.0,2.0,2.0,2.0,2.0,2.0
+Finland,FIN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.4,1.5,1.7,1.8,1.7,1.6,1.6,1.5,1.5,1.4,1.5,1.4,1.4,1.4,1.4,1.3,1.0,1.0,1.1,0.9,0.8,1.0,1.0
+Finland,FIN,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.5,1.8,1.8,1.8,1.8,1.8,1.7,1.6,1.5,1.6,1.8,1.9,1.8,1.8,1.8,1.9,1.8,1.8,1.8,1.8,1.8,1.9,1.9
+Finland,FIN,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.5,1.5,1.6,1.6,1.6,1.8,1.7,1.5,1.5,1.5,1.5,1.5,1.5,1.6,1.6,1.5,1.5,1.5,1.6,1.6,1.6,1.6,1.6
+France,FRA,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.2,1.4,1.3,1.2,1.3,1.3,1.4,1.5,1.5,1.4,1.4,1.5,1.5,1.5,1.3,1.3,1.2,1.3,1.2,1.3,1.2,1.1,1.3
+France,FRA,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.3,1.5,1.6,1.5,1.7,1.8,1.7,1.6,1.5,1.6,1.5,1.5,1.4,1.4,1.5,1.4,1.4,1.4,1.3,1.4,1.3,1.2,1.2
+France,FRA,Rule of Law: Estimate,RL.EST,Unit (0.0),1.5,1.4,1.4,1.2,1.3,1.4,1.4,1.5,1.5,1.5,1.4,1.5,1.4,1.4,1.4,1.5,1.4,1.4,1.4,1.4,1.4,1.3,1.3
+France,FRA,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),0.9,0.7,0.8,0.9,0.2,0.3,0.4,0.6,0.6,0.5,0.5,0.7,0.6,0.6,0.4,0.3,0.1,-0.1,0.3,0.0,0.3,0.3,0.3
+France,FRA,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.0,0.8,0.9,1.0,1.2,1.2,1.2,1.2,1.3,1.3,1.2,1.3,1.2,1.1,1.1,1.1,1.1,1.1,1.1,1.1,1.4,1.2,1.2
+France,FRA,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.3,1.2,1.2,1.2,1.1,1.5,1.5,1.3,1.3,1.3,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.1,1.2,1.2,1.1,1.1,1.1
+Germany,DEU,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.9,2.0,1.8,1.9,1.9,1.8,1.9,1.8,1.7,1.7,1.7,1.8,1.7,1.8,1.8,1.8,1.8,1.8,1.8,1.9,1.9,1.8,1.8
+Germany,DEU,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.7,1.8,1.8,1.7,1.4,1.5,1.5,1.6,1.6,1.5,1.6,1.5,1.5,1.5,1.5,1.7,1.7,1.7,1.6,1.5,1.5,1.3,1.3
+Germany,DEU,Rule of Law: Estimate,RL.EST,Unit (0.0),1.6,1.6,1.6,1.6,1.6,1.6,1.7,1.8,1.8,1.7,1.6,1.6,1.6,1.7,1.6,1.9,1.8,1.6,1.6,1.6,1.6,1.5,1.6
+Germany,DEU,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.3,1.2,1.4,1.1,0.6,0.6,0.9,1.0,1.0,0.9,0.9,0.8,0.8,0.8,0.9,0.9,0.7,0.7,0.6,0.6,0.5,0.6,0.7
+Germany,DEU,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.5,1.2,1.5,1.5,1.5,1.5,1.5,1.6,1.6,1.5,1.5,1.6,1.5,1.5,1.5,1.7,1.7,1.8,1.8,1.8,1.7,1.6,1.6
+Germany,DEU,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.3,1.3,1.3,1.4,1.4,1.5,1.5,1.4,1.3,1.3,1.3,1.3,1.3,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4
+Greece,GRC,Control of Corruption: Estimate,CC.EST,Unit (0.0),0.3,0.8,0.6,0.4,0.4,0.5,0.4,0.4,0.3,0.1,0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0.0,0.0,0.2
+Greece,GRC,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.8,0.7,0.6,0.8,0.7,0.8,0.7,0.6,0.6,0.6,0.6,0.5,0.5,0.3,0.4,0.3,0.1,0.1,0.2,0.3,0.3,0.4,0.4
+Greece,GRC,Rule of Law: Estimate,RL.EST,Unit (0.0),1.1,0.8,0.9,0.7,0.8,0.9,0.8,0.9,0.9,0.9,0.6,0.6,0.5,0.4,0.5,0.4,0.3,0.1,0.1,0.1,0.2,0.3,0.3
+Greece,GRC,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),0.6,0.8,0.8,0.9,0.5,0.5,0.5,0.6,0.5,0.3,-0.2,-0.1,-0.1,-0.2,-0.2,-0.1,-0.2,-0.1,-0.1,0.2,0.2,0.1,0.1
+Greece,GRC,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),0.5,0.6,0.7,0.9,1.0,0.8,1.0,0.9,0.9,0.9,0.8,0.6,0.5,0.5,0.6,0.3,0.4,0.1,0.2,0.4,0.5,0.5,0.4
+Greece,GRC,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.0,1.1,1.0,1.0,1.2,1.2,1.1,1.0,1.0,0.9,0.9,0.9,0.8,0.7,0.7,0.6,0.7,0.7,0.7,0.7,0.8,1.0,0.9
+Hungary,HUN,Control of Corruption: Estimate,CC.EST,Unit (0.0),0.7,0.7,0.7,0.6,0.6,0.7,0.6,0.6,0.6,0.4,0.4,0.3,0.3,0.3,0.3,0.2,0.1,0.1,0.1,0.1,0.0,0.1,0.0
+Hungary,HUN,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.9,0.9,1.0,1.0,0.8,0.8,0.7,0.8,0.7,0.7,0.7,0.6,0.7,0.6,0.7,0.6,0.5,0.5,0.5,0.4,0.5,0.5,0.6
+Hungary,HUN,Rule of Law: Estimate,RL.EST,Unit (0.0),0.9,0.8,0.8,0.9,0.8,0.8,0.8,1.0,0.9,0.9,0.8,0.8,0.8,0.6,0.6,0.5,0.4,0.4,0.5,0.6,0.5,0.5,0.5
+Hungary,HUN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.0,1.2,0.9,1.3,1.1,0.8,1.0,1.0,0.7,0.8,0.5,0.7,0.7,0.7,0.8,0.7,0.7,0.6,0.8,0.7,0.8,0.8,0.8
+Hungary,HUN,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),0.9,1.0,1.0,1.3,1.1,1.2,1.0,1.2,1.2,1.2,1.1,1.0,1.0,1.0,0.9,0.7,0.8,0.6,0.6,0.6,0.6,0.5,0.5
+Hungary,HUN,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.0,1.1,1.1,1.2,1.2,1.1,1.2,1.0,1.0,1.0,0.9,0.9,0.8,0.7,0.7,0.6,0.6,0.4,0.5,0.5,0.3,0.4,0.4
+Ireland,IRL,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.7,1.5,1.4,1.4,1.4,1.3,1.6,1.7,1.7,1.7,1.8,1.7,1.6,1.5,1.6,1.7,1.7,1.6,1.5,1.5,1.5,1.5,1.6
+Ireland,IRL,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.7,1.7,1.6,1.6,1.5,1.5,1.7,1.5,1.6,1.5,1.3,1.3,1.5,1.5,1.5,1.6,1.5,1.3,1.3,1.4,1.3,1.4,1.5
+Ireland,IRL,Rule of Law: Estimate,RL.EST,Unit (0.0),1.5,1.6,1.5,1.6,1.5,1.5,1.6,1.7,1.7,1.7,1.7,1.8,1.7,1.7,1.7,1.8,1.7,1.5,1.4,1.4,1.3,1.5,1.5
+Ireland,IRL,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.3,1.5,1.6,1.5,1.3,1.2,1.3,1.2,1.2,1.2,1.1,1.0,0.9,0.9,0.9,1.1,0.9,0.8,1.0,1.0,1.0,1.0,0.8
+Ireland,IRL,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.5,1.6,1.8,1.7,1.6,1.6,1.5,1.8,1.9,1.9,1.7,1.6,1.6,1.6,1.6,1.8,1.8,1.7,1.6,1.6,1.6,1.5,1.6
+Ireland,IRL,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.4,1.4,1.4,1.3,1.3,1.5,1.6,1.4,1.4,1.4,1.4,1.3,1.3,1.3,1.3,1.3,1.3,1.3,1.3,1.3,1.3,1.4,1.4
+Italy,ITA,Control of Corruption: Estimate,CC.EST,Unit (0.0),0.4,0.5,0.7,0.5,0.5,0.4,0.4,0.5,0.3,0.3,0.2,0.3,0.3,0.2,0.1,0.0,0.0,0.1,0.2,0.2,0.2,0.5,0.5
+Italy,ITA,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.8,0.8,0.7,0.8,0.7,0.6,0.6,0.4,0.2,0.3,0.4,0.5,0.4,0.4,0.5,0.5,0.5,0.5,0.5,0.4,0.5,0.4,0.3
+Italy,ITA,Rule of Law: Estimate,RL.EST,Unit (0.0),1.1,0.8,0.8,0.7,0.7,0.6,0.5,0.4,0.5,0.4,0.4,0.5,0.5,0.4,0.4,0.4,0.3,0.4,0.3,0.2,0.3,0.2,0.2
+Italy,ITA,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.1,1.2,0.9,0.8,0.4,0.3,0.5,0.5,0.4,0.5,0.3,0.5,0.5,0.5,0.5,0.5,0.4,0.4,0.3,0.3,0.4,0.4,0.6
+Italy,ITA,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),0.9,0.7,0.8,0.9,1.0,1.1,1.0,1.0,0.9,1.0,1.0,0.9,0.7,0.7,0.8,0.6,0.7,0.7,0.7,0.7,0.9,0.5,0.5
+Italy,ITA,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.1,1.1,1.0,1.0,1.0,1.2,1.1,1.1,1.1,1.0,1.0,1.0,0.9,0.9,1.0,1.0,1.0,1.0,1.0,1.0,0.9,1.1,1.1
+Latvia,LVA,Control of Corruption: Estimate,CC.EST,Unit (0.0),-0.2,0.1,0.0,0.0,0.2,0.2,0.4,0.4,0.3,0.2,0.2,0.2,0.3,0.2,0.3,0.4,0.4,0.4,0.5,0.3,0.5,0.7,0.7
+Latvia,LVA,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.5,0.2,0.2,0.5,0.6,0.6,0.5,0.7,0.4,0.5,0.6,0.7,0.7,0.8,0.9,1.0,1.1,1.0,0.9,1.0,1.1,0.8,0.8
+Latvia,LVA,Rule of Law: Estimate,RL.EST,Unit (0.0),0.1,0.2,0.1,0.3,0.6,0.5,0.6,0.6,0.7,0.8,0.8,0.8,0.7,0.8,0.8,0.9,0.8,0.9,0.9,0.9,1.0,0.9,0.9
+Latvia,LVA,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),0.6,0.0,0.4,0.9,1.0,0.6,0.8,0.8,0.6,0.2,0.3,0.5,0.3,0.5,0.6,0.5,0.4,0.5,0.5,0.4,0.4,0.5,0.7
+Latvia,LVA,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),0.9,0.8,0.7,0.9,1.0,0.9,0.9,0.9,1.0,1.0,0.9,0.9,1.0,1.0,1.0,1.2,1.1,1.1,1.1,1.1,1.2,1.2,1.2
+Latvia,LVA,Voice and Accountability: Estimate,VA.EST,Unit (0.0),0.7,0.8,0.7,0.8,0.8,0.7,0.8,0.8,0.8,0.8,0.8,0.8,0.7,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.9,0.9,0.9
+Lithuania,LTU,Control of Corruption: Estimate,CC.EST,Unit (0.0),0.4,0.3,0.4,0.2,0.4,0.4,0.3,0.2,0.1,0.1,0.2,0.4,0.3,0.4,0.4,0.6,0.6,0.7,0.5,0.5,0.7,0.8,0.8
+Lithuania,LTU,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.5,0.3,0.1,0.5,0.7,0.7,0.8,0.7,0.7,0.6,0.7,0.7,0.7,0.8,0.8,1.0,1.2,1.0,0.9,1.0,1.0,1.0,1.0
+Lithuania,LTU,Rule of Law: Estimate,RL.EST,Unit (0.0),0.4,0.6,0.2,0.4,0.5,0.6,0.6,0.7,0.7,0.7,0.7,0.8,0.8,0.8,0.8,0.9,1.0,1.0,1.0,0.9,1.0,0.9,1.1
+Lithuania,LTU,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),0.5,0.4,0.4,0.9,1.1,0.8,0.8,0.9,0.8,0.7,0.6,0.7,0.7,0.8,1.0,0.7,0.7,0.8,0.8,0.7,0.8,0.9,0.8
+Lithuania,LTU,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.1,0.9,0.7,1.1,1.0,1.1,0.9,1.0,1.0,1.0,1.0,1.0,0.9,1.1,1.1,1.2,1.3,1.1,1.1,1.1,1.1,1.1,1.3
+Lithuania,LTU,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.0,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.8,0.9,0.9,0.9,0.9,0.9,1.0,1.0,1.0,1.0,0.9,1.0,1.0,1.0
+Luxembourg,LUX,Control of Corruption: Estimate,CC.EST,Unit (0.0),2.0,1.9,2.0,2.0,1.6,1.8,1.6,1.9,2.0,2.0,2.0,2.0,2.2,2.1,2.1,2.1,2.1,2.0,1.9,2.0,2.1,2.0,1.8
+Luxembourg,LUX,Government Effectiveness: Estimate,GE.EST,Unit (0.0),2.0,2.0,1.9,2.0,1.9,1.9,1.8,1.6,1.6,1.6,1.7,1.7,1.7,1.7,1.6,1.6,1.7,1.7,1.6,1.7,1.7,1.8,1.7
+Luxembourg,LUX,Rule of Law: Estimate,RL.EST,Unit (0.0),1.7,1.8,1.8,1.9,1.8,1.8,1.8,1.7,1.7,1.8,1.8,1.8,1.8,1.8,1.8,1.9,1.8,1.7,1.7,1.8,1.7,1.7,1.7
+Luxembourg,LUX,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.4,1.4,1.6,1.6,1.4,1.3,1.3,1.4,1.5,1.5,1.5,1.5,1.3,1.3,1.3,1.4,1.4,1.4,1.3,1.3,1.3,1.2,1.2
+Luxembourg,LUX,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.8,1.5,1.8,1.9,1.8,1.8,1.6,1.7,1.7,1.7,1.6,1.7,1.9,1.8,1.8,1.6,1.6,1.7,1.7,1.7,1.7,1.8,1.9
+Luxembourg,LUX,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.5,1.5,1.5,1.4,1.5,1.7,1.6,1.5,1.5,1.5,1.6,1.6,1.6,1.6,1.6,1.6,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+Netherlands,NLD,Control of Corruption: Estimate,CC.EST,Unit (0.0),2.1,2.1,2.1,2.1,2.0,2.0,2.0,2.0,2.2,2.1,2.1,2.1,2.1,2.1,2.0,2.0,1.8,1.9,1.7,1.9,1.9,2.0,2.0
+Netherlands,NLD,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.9,2.0,2.0,1.9,2.0,2.1,1.9,1.8,1.7,1.7,1.7,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.7
+Netherlands,NLD,Rule of Law: Estimate,RL.EST,Unit (0.0),1.7,1.7,1.7,1.7,1.7,1.7,1.8,1.8,1.8,1.7,1.8,1.8,1.8,1.9,1.8,2.0,1.9,1.8,1.8,1.7,1.7,1.7,1.7
+Netherlands,NLD,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.5,1.6,1.8,1.3,1.2,1.0,1.0,0.9,0.8,0.9,0.9,0.9,1.1,1.2,1.1,1.0,0.9,0.9,0.9,0.8,0.8,0.8,0.9
+Netherlands,NLD,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.8,1.9,2.0,1.8,1.7,1.8,1.7,1.7,1.8,1.8,1.7,1.7,1.8,1.7,1.8,1.8,1.8,2.0,2.0,2.0,1.8,1.7,1.7
+Netherlands,NLD,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.6,1.6,1.5,1.5,1.5,1.7,1.7,1.5,1.5,1.5,1.5,1.5,1.5,1.6,1.6,1.5,1.6,1.5,1.5,1.5,1.5,1.5,1.5
+Australia,AUS,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.9,1.8,1.9,1.8,1.9,2.0,1.9,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.6,1.7
+Australia,AUS,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.8,1.6,1.7,1.7,1.8,2.0,1.7,1.7,1.8,1.8,1.7,1.8,1.7,1.6,1.6,1.6,1.5,1.5,1.5,1.6,1.5,1.6,1.5
+Australia,AUS,Rule of Law: Estimate,RL.EST,Unit (0.0),1.7,1.8,1.7,1.8,1.8,1.8,1.7,1.8,1.7,1.8,1.7,1.8,1.7,1.8,1.8,1.9,1.8,1.7,1.6,1.7,1.7,1.6,1.6
+Australia,AUS,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.4,1.1,1.3,1.2,0.9,0.9,0.9,0.9,0.9,1.0,0.9,0.9,0.9,1.0,1.0,1.0,0.9,1.0,0.9,1.0,0.9,0.9,0.8
+Australia,AUS,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.4,1.4,1.6,1.4,1.6,1.7,1.6,1.6,1.7,1.8,1.8,1.7,1.9,1.8,1.8,1.9,1.8,1.9,1.9,1.9,1.9,1.8,1.8
+Australia,AUS,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.4,1.4,1.5,1.4,1.4,1.5,1.5,1.4,1.4,1.4,1.4,1.4,1.5,1.5,1.4,1.4,1.4,1.4,1.4,1.4,1.3,1.3,1.4
+Canada,CAN,Control of Corruption: Estimate,CC.EST,Unit (0.0),2.0,2.0,2.0,2.0,1.9,1.8,1.9,2.0,2.0,2.0,2.1,2.1,2.0,1.9,1.9,1.8,1.8,1.9,1.9,1.8,1.7,1.6,1.6
+Canada,CAN,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.7,1.9,1.8,1.9,1.9,1.9,1.9,1.9,1.8,1.8,1.7,1.8,1.8,1.8,1.8,1.8,1.7,1.7,1.8,1.7,1.7,1.6,1.6
+Canada,CAN,Rule of Law: Estimate,RL.EST,Unit (0.0),1.6,1.7,1.7,1.7,1.7,1.7,1.7,1.8,1.8,1.8,1.8,1.8,1.7,1.8,1.7,1.9,1.8,1.8,1.8,1.7,1.7,1.6,1.6
+Canada,CAN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.2,1.0,1.2,1.2,1.1,0.9,0.8,1.0,1.0,1.0,1.1,0.9,1.1,1.1,1.1,1.2,1.3,1.2,1.1,1.0,1.0,1.0,1.0
+Canada,CAN,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.5,1.5,1.5,1.5,1.5,1.6,1.6,1.6,1.6,1.7,1.7,1.7,1.7,1.7,1.7,1.8,1.7,1.7,1.9,1.7,1.7,1.6,1.6
+Canada,CAN,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.6,1.6,1.5,1.5,1.5,1.7,1.5,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.5,1.4,1.5,1.4,1.5,1.5,1.4,1.5,1.4
+Chile,CHL,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.5,1.3,1.5,1.5,1.2,1.3,1.4,1.4,1.3,1.3,1.3,1.4,1.5,1.5,1.5,1.4,1.2,1.0,1.0,1.0,1.0,1.1,1.0
+Chile,CHL,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.3,1.1,1.0,1.1,1.1,1.1,1.2,0.9,1.2,1.1,1.1,1.2,1.2,1.2,1.2,1.0,0.9,0.8,0.8,0.9,0.9,0.7,0.6
+Chile,CHL,Rule of Law: Estimate,RL.EST,Unit (0.0),1.1,1.1,1.3,1.3,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.3,1.3,1.3,1.3,1.2,1.0,1.0,0.9,0.9,0.9,0.9
+Chile,CHL,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),0.7,0.0,0.5,1.1,0.8,0.7,0.8,0.6,0.4,0.4,0.6,0.7,0.5,0.3,0.4,0.4,0.4,0.4,0.4,0.4,0.0,0.0,0.2
+Chile,CHL,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.5,1.4,1.4,1.3,1.3,1.4,1.3,1.4,1.5,1.5,1.4,1.4,1.4,1.5,1.5,1.5,1.3,1.4,1.3,1.3,1.2,0.9,0.9
+Chile,CHL,Voice and Accountability: Estimate,VA.EST,Unit (0.0),0.7,0.6,0.9,1.1,1.1,1.2,1.3,1.1,1.1,1.0,1.0,1.1,1.1,1.1,1.1,1.1,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Colombia,COL,Control of Corruption: Estimate,CC.EST,Unit (0.0),-0.5,-0.5,-0.4,-0.3,-0.2,-0.1,-0.1,-0.2,-0.3,-0.3,-0.3,-0.4,-0.3,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.3,-0.3,-0.3,-0.4
+Colombia,COL,Government Effectiveness: Estimate,GE.EST,Unit (0.0),-0.5,-0.3,-0.4,-0.5,-0.2,-0.2,-0.2,-0.2,-0.1,0.0,-0.3,-0.1,-0.1,0.0,0.1,-0.1,-0.1,0.0,-0.1,-0.1,0.0,0.0,0.0
+Colombia,COL,Rule of Law: Estimate,RL.EST,Unit (0.0),-0.8,-0.7,-0.9,-0.7,-0.7,-0.7,-0.6,-0.5,-0.4,-0.4,-0.4,-0.3,-0.2,-0.3,-0.4,-0.3,-0.2,-0.3,-0.4,-0.4,-0.4,-0.5,-0.5
+Colombia,COL,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),-1.6,-1.8,-1.6,-2.0,-2.4,-2.3,-2.1,-1.9,-1.8,-1.9,-1.8,-1.5,-1.3,-1.4,-1.3,-1.1,-1.1,-0.9,-0.8,-0.8,-1.0,-0.7,-1.0
+Colombia,COL,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),-0.1,-0.2,0.1,0.0,-0.1,-0.1,0.0,0.1,0.3,0.3,0.1,0.2,0.3,0.3,0.3,0.4,0.4,0.3,0.3,0.2,0.3,0.2,0.2
+Colombia,COL,Voice and Accountability: Estimate,VA.EST,Unit (0.0),-0.5,-0.3,-0.4,-0.4,-0.4,-0.3,-0.3,-0.2,-0.2,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,0.0,0.0,0.1,0.1,0.2,0.2,0.1,0.1
+Iceland,ISL,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.7,1.9,2.2,2.2,2.2,2.2,2.3,2.2,2.2,2.3,2.0,1.9,1.9,1.9,1.9,1.8,1.9,1.9,1.8,1.8,1.7,1.7,1.8
+Iceland,ISL,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.9,1.8,1.9,2.0,2.0,2.1,2.0,1.9,1.8,1.8,1.6,1.6,1.6,1.5,1.5,1.5,1.5,1.3,1.4,1.4,1.5,1.5,1.6
+Iceland,ISL,Rule of Law: Estimate,RL.EST,Unit (0.0),1.6,1.7,1.8,1.9,1.9,1.9,1.9,1.9,1.8,1.9,1.7,1.7,1.7,1.7,1.7,1.7,1.6,1.5,1.6,1.7,1.7,1.8,1.7
+Iceland,ISL,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.3,1.4,1.6,1.6,1.5,1.5,1.4,1.5,1.5,1.2,1.2,1.0,1.2,1.2,1.3,1.2,1.3,1.3,1.3,1.4,1.6,1.4,1.4
+Iceland,ISL,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.3,1.3,1.6,1.5,1.6,1.6,1.6,1.5,1.5,1.3,1.0,0.9,1.1,1.1,1.1,1.2,1.3,1.3,1.4,1.4,1.4,1.4,1.5
+Iceland,ISL,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.5,1.4,1.5,1.5,1.6,1.6,1.6,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.3,1.4,1.4
+Israel,ISR,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.4,1.1,1.0,1.2,1.1,0.9,0.8,1.0,0.8,0.9,0.8,0.8,0.8,0.9,0.9,0.9,0.9,1.1,0.8,0.8,0.8,0.5,0.8
+Israel,ISR,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.8,1.0,1.1,1.0,1.1,1.2,1.0,1.2,1.2,1.3,1.3,1.4,1.3,1.3,1.2,1.2,1.4,1.3,1.3,1.2,1.3,1.1,1.3
+Israel,ISR,Rule of Law: Estimate,RL.EST,Unit (0.0),1.3,1.0,1.0,1.1,0.9,0.8,0.8,0.9,0.8,0.8,0.8,0.9,1.0,0.9,1.0,1.1,1.1,1.0,1.0,1.0,1.0,0.9,0.9
+Israel,ISR,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),-1.2,-1.1,-1.0,-1.5,-1.5,-1.3,-1.2,-1.3,-1.3,-1.3,-1.6,-1.3,-1.2,-1.1,-1.1,-1.0,-1.1,-0.8,-0.9,-0.9,-0.8,-0.9,-1.1
+Israel,ISR,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.1,1.0,1.1,0.9,0.9,0.8,0.9,1.0,1.1,1.2,1.1,1.2,1.3,1.2,1.2,1.2,1.3,1.3,1.3,1.2,1.3,1.2,1.2
+Israel,ISR,Voice and Accountability: Estimate,VA.EST,Unit (0.0),0.7,0.6,0.7,0.6,0.6,0.7,0.6,0.8,0.7,0.7,0.6,0.6,0.7,0.6,0.6,0.7,0.7,0.8,0.7,0.6,0.7,0.7,0.7
+Japan,JPN,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.2,1.1,1.2,0.9,1.2,1.2,1.2,1.3,1.2,1.3,1.4,1.6,1.6,1.6,1.6,1.7,1.5,1.5,1.5,1.4,1.4,1.5,1.5
+Japan,JPN,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.9,1.0,1.1,1.0,1.2,1.3,1.3,1.6,1.4,1.5,1.5,1.5,1.5,1.4,1.6,1.8,1.8,1.8,1.6,1.6,1.6,1.5,1.4
+Japan,JPN,Rule of Law: Estimate,RL.EST,Unit (0.0),1.3,1.3,1.3,1.1,1.2,1.2,1.2,1.4,1.3,1.3,1.3,1.3,1.3,1.4,1.4,1.6,1.5,1.4,1.5,1.5,1.5,1.5,1.5
+Japan,JPN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.2,1.2,1.2,1.2,1.0,1.0,1.0,1.1,1.0,0.9,1.0,0.9,1.0,0.9,1.0,1.0,1.1,1.0,1.1,1.0,1.0,1.0,1.0
+Japan,JPN,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),0.8,0.6,0.8,0.5,1.1,1.1,1.3,1.3,1.1,1.1,1.1,1.0,1.1,1.1,1.1,1.1,1.2,1.4,1.4,1.3,1.3,1.3,1.4
+Japan,JPN,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.1,0.9,1.0,1.0,1.1,1.0,1.0,1.0,1.0,0.9,1.0,1.0,1.1,1.1,1.1,1.0,1.0,1.0,1.0,1.0,0.9,1.0,1.1
+"Korea, Rep.",KOR,Control of Corruption: Estimate,CC.EST,Unit (0.0),0.4,0.3,0.3,0.5,0.5,0.4,0.6,0.3,0.6,0.4,0.5,0.4,0.5,0.5,0.6,0.5,0.3,0.4,0.4,0.6,0.7,0.7,0.7
+"Korea, Rep.",KOR,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.5,0.3,0.6,0.8,0.8,0.8,0.9,1.0,1.2,1.0,1.0,1.1,1.2,1.1,1.0,1.0,1.0,1.0,1.0,1.1,1.3,1.4,1.4
+"Korea, Rep.",KOR,Rule of Law: Estimate,RL.EST,Unit (0.0),0.8,0.8,0.8,0.9,0.8,0.9,1.0,0.8,1.0,0.9,1.0,1.0,1.0,1.0,0.9,1.0,0.9,1.1,1.1,1.2,1.2,1.1,1.1
+"Korea, Rep.",KOR,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),0.6,0.5,0.4,0.2,0.2,0.4,0.5,0.4,0.6,0.4,0.4,0.3,0.4,0.3,0.3,0.1,0.2,0.2,0.4,0.6,0.5,0.6,0.6
+"Korea, Rep.",KOR,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),0.4,0.3,0.6,0.8,0.7,0.8,0.8,0.7,0.9,0.7,0.8,0.9,1.0,0.9,1.0,1.1,1.1,1.1,1.1,1.1,1.1,1.0,1.1
+"Korea, Rep.",KOR,Voice and Accountability: Estimate,VA.EST,Unit (0.0),0.7,0.6,0.6,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.6,0.6,0.8,0.8,0.8,0.8,0.9
+Mexico,MEX,Control of Corruption: Estimate,CC.EST,Unit (0.0),-0.5,-0.4,-0.1,-0.3,-0.2,-0.4,-0.3,-0.3,-0.3,-0.3,-0.4,-0.4,-0.5,-0.5,-0.6,-0.8,-0.9,-0.9,-1.0,-0.9,-0.9,-0.9,-1.0
+Mexico,MEX,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.2,0.4,0.3,0.2,0.1,0.1,0.0,0.1,0.1,0.2,0.1,0.1,0.3,0.3,0.3,0.1,0.1,0.0,-0.1,-0.3,-0.3,-0.3,-0.3
+Mexico,MEX,Rule of Law: Estimate,RL.EST,Unit (0.0),-0.7,-0.5,-0.4,-0.3,-0.4,-0.4,-0.4,-0.5,-0.5,-0.7,-0.6,-0.6,-0.5,-0.5,-0.5,-0.4,-0.5,-0.6,-0.6,-0.6,-0.7,-0.6,-0.8
+Mexico,MEX,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),-0.9,-0.4,-0.2,-0.1,-0.1,-0.2,-0.4,-0.6,-0.7,-0.8,-0.7,-0.7,-0.7,-0.7,-0.7,-0.9,-0.8,-0.6,-0.8,-0.7,-0.8,-0.8,-0.7
+Mexico,MEX,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),0.1,0.2,0.2,0.4,0.3,0.4,0.2,0.3,0.4,0.3,0.2,0.2,0.2,0.4,0.4,0.4,0.3,0.2,0.2,0.1,0.0,0.0,-0.3
+Mexico,MEX,Voice and Accountability: Estimate,VA.EST,Unit (0.0),0.0,0.1,0.3,0.3,0.3,0.3,0.2,0.2,0.1,0.1,0.2,0.2,0.1,0.1,0.1,0.0,-0.1,-0.1,-0.1,0.0,0.0,0.0,-0.1
+New Zealand,NZL,Control of Corruption: Estimate,CC.EST,Unit (0.0),2.1,2.1,2.2,2.3,2.3,2.4,2.2,2.3,2.3,2.3,2.4,2.3,2.3,2.3,2.3,2.2,2.2,2.2,2.2,2.1,2.1,2.1,2.2
+New Zealand,NZL,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.8,1.6,1.6,1.7,1.8,1.9,1.7,1.6,1.7,1.7,1.8,1.8,1.9,1.8,1.7,1.9,1.9,1.8,1.7,1.6,1.6,1.5,1.3
+New Zealand,NZL,Rule of Law: Estimate,RL.EST,Unit (0.0),1.9,1.9,1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.9,1.9,1.9,1.9,1.9,1.9,2.0,2.0,1.9,1.9,1.8,1.8,1.8,1.8
+New Zealand,NZL,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.3,1.3,1.4,1.3,1.2,1.5,1.3,1.3,1.2,1.2,1.1,1.2,1.4,1.4,1.5,1.5,1.5,1.5,1.6,1.5,1.4,1.5,1.4
+New Zealand,NZL,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.9,2.0,1.7,1.6,1.7,1.8,1.6,1.7,1.7,1.8,1.8,1.8,2.0,1.8,1.8,1.9,1.9,2.0,2.1,2.0,1.9,1.9,1.8
+New Zealand,NZL,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.6,1.6,1.7,1.5,1.6,1.7,1.6,1.5,1.5,1.5,1.5,1.5,1.6,1.6,1.6,1.5,1.6,1.5,1.6,1.6,1.5,1.6,1.6
+Norway,NOR,Control of Corruption: Estimate,CC.EST,Unit (0.0),2.1,2.2,2.1,2.1,2.0,1.9,2.0,2.1,2.0,1.9,2.0,2.1,2.1,2.2,2.3,2.2,2.2,2.1,2.2,2.1,2.0,2.1,2.1
+Norway,NOR,Government Effectiveness: Estimate,GE.EST,Unit (0.0),2.0,1.9,1.8,1.8,1.8,2.1,1.9,1.9,2.0,1.8,1.8,1.9,1.8,1.9,1.9,1.8,1.8,1.8,1.9,1.8,1.8,1.9,1.8
+Norway,NOR,Rule of Law: Estimate,RL.EST,Unit (0.0),1.9,1.9,1.8,1.8,1.9,2.0,1.9,2.0,1.9,2.0,1.9,1.9,1.9,2.0,2.0,2.0,2.0,2.0,2.0,1.9,1.9,1.9,1.9
+Norway,NOR,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.5,1.4,1.5,1.6,1.2,1.2,1.3,1.3,1.1,1.3,1.3,1.3,1.3,1.3,1.4,1.1,1.1,1.2,1.2,1.1,1.1,1.2,1.1
+Norway,NOR,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.5,1.4,1.1,1.2,1.3,1.4,1.5,1.2,1.3,1.4,1.5,1.5,1.6,1.5,1.7,1.6,1.6,1.7,1.8,1.8,1.8,1.7,1.6
+Norway,NOR,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.6,1.5,1.5,1.5,1.5,1.7,1.6,1.5,1.5,1.5,1.5,1.6,1.6,1.7,1.7,1.7,1.7,1.7,1.7,1.7,1.7,1.7,1.7
+Switzerland,CHE,Control of Corruption: Estimate,CC.EST,Unit (0.0),2.0,2.1,2.0,2.1,2.0,2.0,2.0,2.1,2.1,2.1,2.1,2.1,2.0,2.1,2.1,2.1,2.1,1.9,1.9,2.0,1.9,2.0,2.0
+Switzerland,CHE,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.8,1.9,2.0,1.9,1.8,2.2,1.8,2.1,2.0,2.0,1.9,1.9,1.9,1.9,1.8,2.1,2.0,2.0,2.0,2.0,1.9,2.0,2.0
+Switzerland,CHE,Rule of Law: Estimate,RL.EST,Unit (0.0),1.9,1.9,1.9,1.9,1.9,1.9,1.9,1.8,1.8,1.8,1.7,1.7,1.7,1.8,1.8,2.0,1.9,1.9,1.9,1.9,1.9,1.8,1.8
+Switzerland,CHE,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.5,1.4,1.6,1.5,1.2,1.2,1.2,1.3,1.2,1.2,1.3,1.3,1.3,1.4,1.4,1.4,1.3,1.3,1.2,1.3,1.3,1.2,1.1
+Switzerland,CHE,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.6,1.6,1.8,1.7,1.7,1.6,1.6,1.5,1.6,1.6,1.5,1.6,1.6,1.7,1.6,1.8,1.7,1.9,1.9,1.8,1.7,1.6,1.7
+Switzerland,CHE,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.4,1.4,1.4,1.4,1.5,1.7,1.6,1.5,1.5,1.5,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.5,1.6,1.6,1.5,1.5,1.5
+Turkiye,TUR,Control of Corruption: Estimate,CC.EST,Unit (0.0),-0.1,-0.4,-0.3,-0.6,-0.2,-0.2,0.0,0.0,0.1,0.1,0.1,0.0,0.0,0.2,0.1,-0.1,-0.2,-0.2,-0.2,-0.4,-0.3,-0.4,-0.4
+Turkiye,TUR,Government Effectiveness: Estimate,GE.EST,Unit (0.0),-0.1,-0.3,0.0,0.1,0.0,0.0,0.1,0.1,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.2,0.0,0.0,-0.1,0.0,-0.2,-0.1
+Turkiye,TUR,Rule of Law: Estimate,RL.EST,Unit (0.0),-0.1,-0.1,-0.1,-0.1,0.1,0.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.1,-0.2,-0.3,-0.3,-0.4,-0.3,-0.4,-0.4
+Turkiye,TUR,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),-1.3,-1.2,-0.8,-0.8,-0.8,-0.8,-0.6,-0.6,-0.8,-0.8,-1.0,-0.9,-1.0,-1.2,-1.2,-1.1,-1.5,-2.0,-1.8,-1.3,-1.4,-1.1,-1.1
+Turkiye,TUR,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),0.1,0.4,0.2,0.1,0.0,0.0,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.5,0.5,0.4,0.3,0.2,0.0,0.0,0.0,0.0,-0.1
+Turkiye,TUR,Voice and Accountability: Estimate,VA.EST,Unit (0.0),-0.1,-0.6,-0.3,-0.2,0.0,0.0,0.0,-0.1,-0.1,0.0,-0.1,-0.1,-0.1,-0.2,-0.3,-0.3,-0.4,-0.6,-0.7,-0.8,-0.8,-0.9,-0.9
+United Kingdom,GBR,Control of Corruption: Estimate,CC.EST,Unit (0.0),2.0,2.1,2.1,2.0,2.0,1.9,1.9,1.8,1.7,1.7,1.6,1.6,1.6,1.7,1.7,1.7,1.8,1.9,1.8,1.8,1.7,1.7,1.6
+United Kingdom,GBR,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.9,1.9,1.8,1.8,1.7,1.9,1.8,1.7,1.6,1.6,1.5,1.6,1.6,1.6,1.5,1.6,1.7,1.6,1.4,1.4,1.4,1.3,1.2
+United Kingdom,GBR,Rule of Law: Estimate,RL.EST,Unit (0.0),1.6,1.7,1.7,1.7,1.7,1.6,1.6,1.8,1.7,1.7,1.7,1.8,1.7,1.7,1.7,1.9,1.8,1.6,1.6,1.6,1.6,1.5,1.4
+United Kingdom,GBR,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),1.0,0.9,1.0,0.7,0.3,0.1,0.1,0.7,0.6,0.5,0.1,0.4,0.4,0.4,0.5,0.4,0.5,0.3,0.4,0.1,0.5,0.5,0.5
+United Kingdom,GBR,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),2.0,2.0,1.8,1.7,1.6,1.7,1.6,1.8,1.9,1.8,1.6,1.7,1.6,1.6,1.8,1.8,1.8,1.7,1.7,1.8,1.6,1.5,1.5
+United Kingdom,GBR,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.3,1.2,1.3,1.3,1.3,1.6,1.4,1.4,1.3,1.3,1.3,1.3,1.3,1.3,1.3,1.3,1.3,1.3,1.4,1.4,1.3,1.2,1.3
+United States,USA,Control of Corruption: Estimate,CC.EST,Unit (0.0),1.6,1.5,1.6,1.9,1.7,1.8,1.5,1.3,1.4,1.4,1.3,1.3,1.3,1.4,1.3,1.4,1.4,1.3,1.3,1.3,1.2,1.0,1.0
+United States,USA,Government Effectiveness: Estimate,GE.EST,Unit (0.0),1.5,1.7,1.7,1.6,1.5,1.7,1.5,1.6,1.6,1.6,1.5,1.6,1.5,1.5,1.5,1.5,1.4,1.4,1.5,1.5,1.5,1.3,1.3
+United States,USA,Rule of Law: Estimate,RL.EST,Unit (0.0),1.5,1.6,1.6,1.5,1.6,1.4,1.5,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.5,1.6,1.6,1.6,1.6,1.5,1.4,1.3,1.4
+United States,USA,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),0.9,0.9,1.1,0.3,0.1,-0.2,-0.1,0.5,0.4,0.6,0.4,0.4,0.6,0.6,0.6,0.6,0.7,0.4,0.3,0.4,0.1,0.0,0.0
+United States,USA,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),1.6,1.6,1.7,1.6,1.6,1.6,1.6,1.6,1.5,1.5,1.4,1.4,1.5,1.3,1.3,1.3,1.2,1.5,1.6,1.6,1.3,1.2,1.4
+United States,USA,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.3,1.3,1.3,1.3,1.3,1.3,1.3,1.1,1.1,1.1,1.1,1.1,1.1,1.2,1.1,1.1,1.1,1.1,1.0,1.0,0.9,0.9,0.9
+Costa Rica,CRI,Control of Corruption: Estimate,CC.EST,Unit (0.0),0.7,0.8,0.7,0.4,0.5,0.3,0.4,0.4,0.5,0.5,0.7,0.7,0.6,0.6,0.6,0.7,0.7,0.7,0.4,0.5,0.6,0.7,0.5
+Costa Rica,CRI,Government Effectiveness: Estimate,GE.EST,Unit (0.0),0.5,0.3,0.3,0.3,0.2,0.2,0.1,0.0,0.2,0.3,0.3,0.3,0.3,0.5,0.5,0.4,0.3,0.3,0.2,0.4,0.3,0.2,0.2
+Costa Rica,CRI,Rule of Law: Estimate,RL.EST,Unit (0.0),0.6,0.6,0.5,0.6,0.5,0.5,0.5,0.4,0.4,0.5,0.6,0.5,0.4,0.5,0.6,0.6,0.5,0.4,0.4,0.5,0.5,0.5,0.4
+Costa Rica,CRI,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,Unit (0.0),0.8,0.9,0.9,1.1,0.6,0.6,0.7,0.7,0.6,0.4,0.6,0.7,0.5,0.6,0.7,0.6,0.7,0.6,0.6,0.5,0.4,0.7,0.9
+Costa Rica,CRI,Regulatory Quality: Estimate,RQ.EST,Unit (0.0),0.6,0.9,0.7,0.4,0.6,0.5,0.6,0.4,0.5,0.6,0.5,0.6,0.6,0.7,0.7,0.7,0.7,0.5,0.4,0.5,0.5,0.5,0.4
+Costa Rica,CRI,Voice and Accountability: Estimate,VA.EST,Unit (0.0),1.1,1.1,1.1,1.1,1.0,1.0,0.8,0.9,0.9,1.0,1.0,1.0,1.1,1.1,1.1,1.1,1.2,1.1,1.1,1.1,1.1,1.1,1.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data from database: Worldwide Governance Indicators,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Last Updated: 11/05/2024,,,,,,,,,,,,,,,,,,,,,,,,,,,
